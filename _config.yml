@@ -8,8 +8,6 @@ baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root.
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Praween
 last_name: Siritanasak
-contact_note: >
-  Feel free to reach me by email at praween@narit.or.th — that's the best way to get in touch.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Researcher at NARIT working on CMB polarization, POLARBEAR/Simons Array experiment, and next-generation detector development.
 footer_text: >
