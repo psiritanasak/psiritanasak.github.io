@@ -11,12 +11,12 @@
     color: var(--global-theme-color);
     font-size: 2rem;
     text-align: center;
-    margin-top: 1em;
-    margin-bottom: 1em;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
   }
 
   h2 {
-    margin-bottom: 1rem;
+    margin-bottom: 0.5rem;
 
     span {
       font-size: 1.5rem;
@@ -26,8 +26,8 @@
   h2.bibliography {
     color: var(--global-divider-color);
     border-top: 1px solid var(--global-divider-color);
-    padding-top: 1rem;
-    margin-top: 2rem;
+    padding-top: 0.5rem;
+    margin-top: 1rem;
     text-align: right;
   }
 
@@ -37,19 +37,19 @@
     margin-top: 0;
 
     li {
-      margin-bottom: 1rem;
+      margin-bottom: 0.5rem;
 
       .preview {
         display: inline-block;
       }
 
       .abbr {
-        margin-bottom: 0.5rem;
+        margin-bottom: 0.25rem;
 
         abbr {
           display: inline-block;
           background-color: var(--global-theme-color);
-          margin-bottom: 0.5rem;
+          margin-bottom: 0.25rem;
           color: var(--global-card-bg-color) !important;
 
           a {
@@ -102,10 +102,10 @@
         a.btn {
           color: var(--global-text-color);
           border: 1px solid var(--global-text-color);
-          padding-left: 1rem;
-          padding-right: 1rem;
-          padding-top: 0.25rem;
-          padding-bottom: 0.25rem;
+          padding-left: 0.6rem;
+          padding-right: 0.6rem;
+          padding-top: 0.1rem;
+          padding-bottom: 0.1rem;
           margin-left: 0;
 
           &:hover {
@@ -119,7 +119,7 @@
       }
 
       .badges {
-        padding-bottom: 0.5rem;
+        padding-bottom: 0.25rem;
         span {
           display: inline-block;
           color: v.$black-color;

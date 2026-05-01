@@ -61,7 +61,12 @@ ul.task-list input[type="checkbox"] {
   .more-info {
     margin-bottom: 5px;
     margin-top: 5px;
-    font-family: monospace;
+    font-family: inherit;
+    font-size: 0.82rem;
+    font-style: italic;
+    color: var(--global-text-color-light);
+    letter-spacing: 0.01em;
+    line-height: 1.6;
 
     p {
       display: inline-block;

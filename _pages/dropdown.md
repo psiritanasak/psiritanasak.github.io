@@ -1,13 +1,12 @@
 ---
 layout: page
-title: submenus
+title: research
 nav: true
-nav_order: 8
+nav_order: 4
 dropdown: true
 children:
-  - title: bookshelf
-    permalink: /books/
-  - title: divider
-  - title: blog
-    permalink: /blog/
+  - title: CMB / POLARBEAR
+    permalink: /research/
+  - title: Dark Photon
+    permalink: /research/dark-photon/
 ---
