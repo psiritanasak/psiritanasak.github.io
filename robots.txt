@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://psiritanasak.github.io/sitemap.xml
