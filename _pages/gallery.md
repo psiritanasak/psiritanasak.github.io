@@ -5,6 +5,7 @@ permalink: /gallery/
 description: Photography by Praween Siritanasak.
 nav: true
 nav_order: 6
+tabs: true
 ---
 
 <style>
@@ -24,7 +25,9 @@ nav_order: 6
 }
 </style>
 
-## Ceiling
+{% tabs gallery %}
+
+{% tab gallery Ceiling %}
 
 *Some times we forgot to watch what is above us.*
 
@@ -80,9 +83,9 @@ nav_order: 6
   <div class="col-6">{% include figure.liquid loading="lazy" path="assets/img/ceiling/dsc_5040.jpg" class="img-fluid rounded" %}</div>
 </div>
 
----
+{% endtab %}
 
-## Alley
+{% tab gallery Alley %}
 
 <div class="photo-masonry mt-2">
   <div class="item">{% include figure.liquid loading="lazy" path="assets/img/alley/dsc_0664-1.jpg" class="img-fluid rounded" %}</div>
@@ -111,9 +114,9 @@ nav_order: 6
   <div class="item">{% include figure.liquid loading="lazy" path="assets/img/alley/dsc_9970-1.jpg" class="img-fluid rounded" %}</div>
 </div>
 
----
+{% endtab %}
 
-## Animals
+{% tab gallery Animals %}
 
 <div class="photo-masonry mt-2">
   <div class="item">{% include figure.liquid loading="lazy" path="assets/img/animals/dsc_2006.jpg" class="img-fluid rounded" %}</div>
@@ -143,3 +146,7 @@ nav_order: 6
   <div class="item">{% include figure.liquid loading="lazy" path="assets/img/animals/dsc_8790.jpg" class="img-fluid rounded" %}</div>
   <div class="item">{% include figure.liquid loading="lazy" path="assets/img/animals/dsc_8869.jpg" class="img-fluid rounded" %}</div>
 </div>
+
+{% endtab %}
+
+{% endtabs %}
