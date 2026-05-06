@@ -1,10 +1,7 @@
 cv:
   name: Praween Siritanasak
-  label: Researcher
   email: praween@narit.or.th
   location: Chiangmai, Thailand
-  image: ""
-  summary: Researcher at the National Astronomical Research Institute of Thailand (NARIT), specializing in CMB polarization experiments (POLARBEAR/Simons Array), next-generation receiver development, and highly sensitive detector characterization.
 
   social_networks:
     - network: X
@@ -12,20 +9,12 @@ cv:
     - network: GitHub
       username: psiritanasak
 
-  address:
-    street: 260 Moo 4, T. Donkaew, A. Maerim
-    city: Chiangmai
-    region: Chiang Mai
-    postalCode: "50180"
-    countryCode: TH
-
   sections:
     Education:
       - institution: University of California, San Diego
         location: San Diego, CA, USA
-        url: https://ucsd.edu/
         area: Physics — Experimental Cosmology
-        studyType: Ph.D.
+        degree: Ph.D.
         start_date: 2009
         end_date: 2018
         highlights:
@@ -34,17 +23,15 @@ cv:
 
       - institution: University of California, San Diego
         location: San Diego, CA, USA
-        url: https://ucsd.edu/
         area: Physics
-        studyType: M.Sc.
+        degree: M.Sc.
         start_date: 2009
         end_date: 2012
 
       - institution: Mahidol University
         location: Bangkok, Thailand
-        url: https://www.mahidol.ac.th/
         area: Physics
-        studyType: B.Sc.
+        degree: B.Sc.
         start_date: 2005
         end_date: 2009
         highlights:
@@ -66,9 +53,8 @@ cv:
         location: San Diego, CA, USA
         start_date: 2018-06
         end_date: 2020-10
-        summary: Experimental cosmology group under Professor Brian Keating.
         highlights:
-          - Development of next-generation CMB receiver systems
+          - Development of next-generation CMB receiver systems under Professor Brian Keating
           - Testing and characterization of transition-edge sensor (TES) bolometers
 
       - company: Department of Physics, UC San Diego
@@ -77,56 +63,35 @@ cv:
         start_date: 2009
         end_date: 2018
         highlights:
-          - Project — The POLARBEAR and the Simons Array CMB polarization experiment
+          - The POLARBEAR and the Simons Array CMB polarization experiment
 
     Awards:
-      - title: Royal Thai Government Scholarship
+      - name: Royal Thai Government Scholarship
         date: 2010
-        awarder: Royal Thai Government
-        summary: Full-ride graduate scholarship for doctoral study abroad, 2010–2017.
+        highlights:
+          - Full-ride graduate scholarship for doctoral study abroad, 2010–2017
 
-      - title: Sritrangthong Scholarship
+      - name: Sritrangthong Scholarship
         date: 2005
-        awarder: Mahidol University, Thailand
-        summary: Merit-based undergraduate scholarship, 2005–2009.
+        highlights:
+          - Merit-based undergraduate scholarship, Mahidol University, 2005–2009
 
     Skills:
-      - name: CMB Instrumentation
-        level: Expert
-        icon: fa-solid fa-satellite-dish
-        keywords: "POLARBEAR, Simons Array, TES detectors, receiver development, cryogenics, anti-reflection coatings"
+      - label: CMB Instrumentation
+        details: POLARBEAR, Simons Array, TES detectors, receiver development, cryogenics, anti-reflection coatings
 
-      - name: Data Analysis
-        level: Expert
-        icon: fa-solid fa-chart-line
-        keywords: "CMB polarization analysis, B-mode detection, gravitational lensing, power spectrum estimation"
+      - label: Data Analysis
+        details: CMB polarization analysis, B-mode detection, gravitational lensing, power spectrum estimation
 
-      - name: Programming & Tools
-        level: Advanced
-        icon: fa-solid fa-code
-        keywords: "Python, C, MATLAB, Mathematica, LaTeX, Solidworks, HFSS"
+      - label: Programming & Tools
+        details: Python, C, MATLAB, Mathematica, LaTeX, Solidworks, HFSS
 
-      - name: Operating Systems
-        level: Advanced
-        icon: fa-solid fa-computer
-        keywords: "macOS, Linux (RedHat, Ubuntu, Linux Mint)"
+      - label: Operating Systems
+        details: macOS, Linux (RedHat, Ubuntu, Linux Mint)
 
     Languages:
-      - name: Thai
-        summary: "Native speaker"
+      - label: Thai
+        details: Native
 
-      - name: English
-        summary: "Fluent"
-
-    Interests:
-      - name: Running
-        icon: fa-solid fa-person-running
-        keywords: "Marathon, long-distance running"
-
-      - name: Photography
-        icon: fa-solid fa-camera
-        keywords: "Astrophotography, landscape, travel"
-
-      - name: Travel & Stargazing
-        icon: fa-solid fa-star
-        keywords: "Exploring new places, watching the night sky"
+      - label: English
+        details: Fluent
