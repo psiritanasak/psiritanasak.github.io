@@ -216,9 +216,6 @@ kramdown:
 # Includes & excludes
 include: ["_pages"]
 exclude:
-  - praween-site/
-  - dark_photon.md
-  - dark_photon_th.md
   - bin/
   - CONTRIBUTING.md
   - CUSTOMIZE.md
