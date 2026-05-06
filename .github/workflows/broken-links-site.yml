@@ -44,4 +44,4 @@ jobs:
         with:
           fail: true
           # only check local links
-          args: --offline --base _site --remap '_site(/?.*)/assets/(.*) _site/assets/$2' --verbose --no-progress '_site/**/*.html'
+          args: --offline --root-dir _site --remap '_site(/?.*)/assets/(.*) _site/assets/$2' --exclude '\.(webp|jpg|jpeg|png|gif|svg|ico|pdf|zip|woff|woff2|ttf|eot)(\?.*)?$' --exclude 'github-readme-stats' --exclude 'al-folio/publications' --no-progress '_site/**/*.html' --exclude-path '_site/repositories'
