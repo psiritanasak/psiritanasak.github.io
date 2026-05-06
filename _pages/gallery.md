@@ -29,7 +29,7 @@ tabs: true
 
 {% tab gallery Ceiling %}
 
-*Some times we forgot to watch what is above us.*
+_Some times we forgot to watch what is above us._
 
 <div class="row g-2 mt-2">
   <div class="col-4">{% include figure.liquid loading="lazy" path="assets/img/ceiling/dsc_0186.jpg" class="img-fluid rounded" %}</div>

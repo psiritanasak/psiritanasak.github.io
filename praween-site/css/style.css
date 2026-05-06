@@ -1,0 +1,660 @@
+/* Reset and Base */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 16px;
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: "Lora", Georgia, "Times New Roman", serif;
+  color: #333;
+  background: #fff;
+  line-height: 1.8;
+  -webkit-font-smoothing: antialiased;
+}
+
+a {
+  color: #4a7c59;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+a:hover {
+  color: #2d5a3a;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* Header / Site Identity */
+.site-header {
+  text-align: center;
+  padding: 50px 20px 20px;
+  background: #fff;
+}
+
+.site-title {
+  font-family: "Playfair Display", Georgia, serif;
+  font-size: 2.4rem;
+  font-weight: 700;
+  color: #333;
+  letter-spacing: -0.5px;
+}
+
+.site-title a {
+  color: #333;
+  text-decoration: none;
+}
+
+.site-title a:hover {
+  color: #333;
+}
+
+.site-tagline {
+  font-family: "Lora", Georgia, serif;
+  font-size: 0.95rem;
+  color: #888;
+  margin-top: 5px;
+  font-style: italic;
+}
+
+/* Navigation */
+.main-navigation {
+  text-align: center;
+  padding: 15px 20px 10px;
+}
+
+.main-navigation ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  flex-wrap: wrap;
+}
+
+.main-navigation a {
+  font-family: "Lora", Georgia, serif;
+  font-size: 1.05rem;
+  color: #4a7c59;
+  font-weight: 500;
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+.main-navigation a:hover,
+.main-navigation a.active {
+  color: #2d5a3a;
+}
+
+/* Social Icons */
+.social-icons {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  padding: 10px 0 30px;
+}
+
+.social-icons a {
+  color: #333;
+  font-size: 1.3rem;
+  transition: color 0.2s;
+}
+
+.social-icons a:hover {
+  color: #4a7c59;
+}
+
+/* Main Content Area */
+.site-content {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px 30px 60px;
+}
+
+/* Page Title */
+.page-title {
+  font-family: "Playfair Display", Georgia, serif;
+  font-size: 2rem;
+  font-weight: 700;
+  text-align: center;
+  margin-bottom: 40px;
+  color: #333;
+}
+
+/* Hero / Cover Block (Homepage) */
+.hero-cover {
+  position: relative;
+  width: 100%;
+  min-height: 500px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  overflow: hidden;
+  background-size: cover;
+  background-position: center;
+  margin-bottom: 40px;
+}
+
+.hero-cover::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(100, 140, 160, 0.55);
+}
+
+.hero-content {
+  position: relative;
+  z-index: 1;
+  color: #fff;
+  padding: 40px 20px;
+}
+
+.hero-content h1 {
+  font-family: "Playfair Display", Georgia, serif;
+  font-size: 3.5rem;
+  font-weight: 700;
+  margin-bottom: 10px;
+  letter-spacing: -1px;
+}
+
+.hero-content .thai-name {
+  font-size: 2.5rem;
+  margin-bottom: 15px;
+  font-weight: 400;
+}
+
+.hero-content .welcome-text {
+  font-size: 1.1rem;
+  font-style: italic;
+  opacity: 0.9;
+}
+
+/* Blog Posts List (Homepage) */
+.post-list {
+  margin-top: 40px;
+}
+
+.post-entry {
+  margin-bottom: 40px;
+  padding-bottom: 30px;
+  border-bottom: 1px solid #eee;
+}
+
+.post-entry:last-child {
+  border-bottom: none;
+}
+
+.post-entry h2 {
+  font-family: "Playfair Display", Georgia, serif;
+  font-size: 1.4rem;
+  margin-bottom: 10px;
+}
+
+.post-entry h2 a {
+  color: #333;
+}
+
+.post-entry h2 a:hover {
+  color: #4a7c59;
+}
+
+.post-meta {
+  font-size: 0.85rem;
+  color: #999;
+  margin-bottom: 15px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.post-meta .author-avatar {
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+}
+
+.post-excerpt {
+  font-size: 0.95rem;
+  color: #555;
+  line-height: 1.7;
+}
+
+/* About Page */
+.about-layout {
+  display: grid;
+  grid-template-columns: 1fr 1.5fr;
+  gap: 40px;
+  align-items: start;
+  margin-bottom: 40px;
+}
+
+.about-photo {
+  border-radius: 50%;
+  overflow: hidden;
+  aspect-ratio: 1;
+}
+
+.about-photo img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.about-text p {
+  margin-bottom: 15px;
+  font-size: 1.05rem;
+  line-height: 1.8;
+}
+
+.about-links {
+  margin-top: 20px;
+  display: flex;
+  gap: 15px;
+  flex-wrap: wrap;
+}
+
+.about-links a {
+  color: #4a7c59;
+  font-weight: 500;
+}
+
+/* Research Page */
+.research-content {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.lang-toggle {
+  display: flex;
+  justify-content: flex-end;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.lang-toggle button {
+  padding: 6px 16px;
+  border: 2px solid #4a7c59;
+  background: transparent;
+  color: #4a7c59;
+  font-family: "Lora", Georgia, serif;
+  font-size: 0.95rem;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.lang-toggle button.active,
+.lang-toggle button:hover {
+  background: #4a7c59;
+  color: #fff;
+}
+
+.research-section {
+  margin-bottom: 50px;
+}
+
+.research-section h3 {
+  font-family: "Playfair Display", Georgia, serif;
+  font-size: 1.3rem;
+  margin-bottom: 15px;
+  color: #333;
+}
+
+.research-image {
+  margin: 20px 0;
+  text-align: center;
+}
+
+.research-image img {
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+.research-image figcaption,
+.research-image .caption {
+  font-size: 0.85rem;
+  color: #888;
+  font-style: italic;
+  margin-top: 8px;
+  text-align: center;
+}
+
+.research-quote {
+  font-style: italic;
+  text-align: center;
+  color: #666;
+  margin: 30px 0;
+  padding: 20px;
+  border-top: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+}
+
+.research-quote cite {
+  display: block;
+  margin-top: 10px;
+  font-style: normal;
+  font-weight: 600;
+  color: #333;
+}
+
+.references {
+  margin-top: 30px;
+  font-size: 0.9rem;
+  color: #555;
+}
+
+.references p {
+  margin-bottom: 10px;
+  line-height: 1.6;
+}
+
+/* Genealogy Page */
+.genealogy-tree {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.genealogy-entry {
+  background: #f5f5f5;
+  padding: 25px 30px;
+  margin-bottom: 5px;
+  position: relative;
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 20px;
+  align-items: center;
+}
+
+.genealogy-entry::before {
+  content: "";
+  position: absolute;
+  left: 20px;
+  top: -5px;
+  width: 2px;
+  height: 5px;
+  background: #ccc;
+}
+
+.genealogy-entry:first-child::before {
+  display: none;
+}
+
+.genealogy-info h3 {
+  font-family: "Playfair Display", Georgia, serif;
+  font-size: 1.15rem;
+  font-weight: 700;
+  margin-bottom: 8px;
+}
+
+.genealogy-info .role {
+  color: #666;
+  margin-bottom: 5px;
+}
+
+.genealogy-info .university {
+  color: #666;
+  margin-bottom: 5px;
+}
+
+.genealogy-info .thesis {
+  font-size: 0.9rem;
+  font-style: italic;
+  color: #777;
+  margin-bottom: 5px;
+}
+
+.genealogy-info .note {
+  font-size: 0.85rem;
+  color: #888;
+  font-style: italic;
+}
+
+.genealogy-portrait {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+}
+
+.genealogy-me {
+  text-align: center;
+  font-family: "Playfair Display", Georgia, serif;
+  font-size: 1.5rem;
+  font-weight: 700;
+  padding: 30px;
+  background: #f5f5f5;
+  color: #333;
+}
+
+/* Ceiling / Gallery Page */
+.gallery-intro {
+  text-align: center;
+  font-style: italic;
+  color: #666;
+  margin-bottom: 30px;
+  font-size: 1.1rem;
+}
+
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 5px;
+}
+
+.gallery-grid .gallery-item {
+  overflow: hidden;
+  cursor: pointer;
+  position: relative;
+}
+
+.gallery-grid .gallery-item img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+}
+
+.gallery-grid .gallery-item:hover img {
+  transform: scale(1.03);
+}
+
+/* Tiled gallery layout matching WordPress */
+.gallery-grid .gallery-item:nth-child(1) {
+  grid-column: span 2;
+  grid-row: span 2;
+}
+
+/* Contact Page */
+.contact-layout {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 50px;
+  margin-top: 30px;
+}
+
+.contact-info h3,
+.contact-form h3 {
+  font-family: "Playfair Display", Georgia, serif;
+  font-size: 1.4rem;
+  margin-bottom: 20px;
+}
+
+.contact-info p {
+  margin-bottom: 10px;
+  line-height: 1.7;
+}
+
+.contact-info a {
+  color: #4a7c59;
+}
+
+.contact-social {
+  margin-top: 20px;
+  display: flex;
+  gap: 15px;
+}
+
+.contact-form label {
+  display: block;
+  font-weight: 600;
+  margin-bottom: 5px;
+  font-size: 0.95rem;
+}
+
+.contact-form label span {
+  font-weight: 400;
+  color: #999;
+  font-size: 0.85rem;
+}
+
+.contact-form input,
+.contact-form textarea {
+  width: 100%;
+  padding: 10px 12px;
+  border: 1px solid #ddd;
+  font-family: "Lora", Georgia, serif;
+  font-size: 0.95rem;
+  margin-bottom: 15px;
+  transition: border-color 0.2s;
+}
+
+.contact-form input:focus,
+.contact-form textarea:focus {
+  outline: none;
+  border-color: #4a7c59;
+}
+
+.contact-form textarea {
+  min-height: 120px;
+  resize: vertical;
+}
+
+.contact-form button {
+  background: #4a7c59;
+  color: #fff;
+  border: none;
+  padding: 10px 30px;
+  font-family: "Lora", Georgia, serif;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.contact-form button:hover {
+  background: #2d5a3a;
+}
+
+/* Footer */
+.site-footer {
+  text-align: left;
+  padding: 30px 30px;
+  font-size: 0.85rem;
+  color: #666;
+  margin-top: 40px;
+}
+
+.site-footer a {
+  color: #666;
+  font-weight: 700;
+}
+
+/* Lightbox */
+.lightbox {
+  display: none;
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.9);
+  z-index: 1000;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+.lightbox.active {
+  display: flex;
+}
+
+.lightbox img {
+  max-width: 90vw;
+  max-height: 90vh;
+  object-fit: contain;
+}
+
+/* Separator */
+hr.separator {
+  border: none;
+  border-top: 2px solid #ddd;
+  width: 80px;
+  margin: 30px auto;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .hero-content h1 {
+    font-size: 2.2rem;
+  }
+
+  .hero-content .thai-name {
+    font-size: 1.6rem;
+  }
+
+  .about-layout {
+    grid-template-columns: 1fr;
+    text-align: center;
+  }
+
+  .about-photo {
+    max-width: 300px;
+    margin: 0 auto;
+  }
+
+  .contact-layout {
+    grid-template-columns: 1fr;
+  }
+
+  .gallery-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .gallery-grid .gallery-item:nth-child(1) {
+    grid-column: span 2;
+    grid-row: span 1;
+  }
+
+  .genealogy-entry {
+    grid-template-columns: 1fr;
+  }
+
+  .genealogy-portrait {
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+  }
+
+  .main-navigation ul {
+    gap: 15px;
+  }
+
+  .site-content {
+    padding: 20px 15px 40px;
+  }
+}
+
+@media (max-width: 480px) {
+  .gallery-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .gallery-grid .gallery-item:nth-child(1) {
+    grid-column: span 1;
+  }
+}

@@ -75,13 +75,13 @@ Atmospheric water vapor absorbs and attenuates millimeter-wave photons, obstruct
 
 Key publications from the POLARBEAR/Simons Array collaboration:
 
-1. Z. Kermish et al. "The POLARBEAR Experiment," *Proc. SPIE* 8452, 84521C (2012). [doi:10.1117/12.926354](https://doi.org/10.1117/12.926354)
-2. The POLARBEAR Collaboration. "A Measurement of the CMB B-mode Polarization Power Spectrum at Sub-degree Scales with POLARBEAR," *ApJ*, 794, 171 (2014). [doi:10.1088/0004-637X/794/2/171](https://doi.org/10.1088/0004-637X/794/2/171)
-3. The POLARBEAR Collaboration. "Measurement of the CMB Polarization Lensing Power Spectrum with POLARBEAR," *PRL*, 113, 021301 (2014). [doi:10.1103/PhysRevLett.113.021301](https://doi.org/10.1103/PhysRevLett.113.021301)
-4. N. Stebor et al. "The Simons Array CMB Polarization Experiment," *Proc. SPIE* 9914, 99141H (2016). [doi:10.1117/12.2233103](https://doi.org/10.1117/12.2233103)
-5. **P. Siritanasak** et al. "Broadband AR-Coated Extended Hemispherical Silicon Lenses for POLARBEAR-2," *JLTP*, 184, 553 (2016). [doi:10.1007/s10909-015-1396-x](https://doi.org/10.1007/s10909-015-1396-x)
-6. The POLARBEAR Collaboration. "A Measurement of the CMB B-mode Power Spectrum from Two Years of POLARBEAR Data," *ApJ*, 848, 121 (2017). [doi:10.3847/1538-4357/aa8e9f](https://doi.org/10.3847/1538-4357/aa8e9f)
-7. The POLARBEAR Collaboration. "A Measurement of the Degree-Scale CMB B-Mode Angular Power Spectrum with POLARBEAR," *ApJ*, 897, 55 (2020). [doi:10.3847/1538-4357/ab8f24](https://doi.org/10.3847/1538-4357/ab8f24)
+1. Z. Kermish et al. "The POLARBEAR Experiment," _Proc. SPIE_ 8452, 84521C (2012). [doi:10.1117/12.926354](https://doi.org/10.1117/12.926354)
+2. The POLARBEAR Collaboration. "A Measurement of the CMB B-mode Polarization Power Spectrum at Sub-degree Scales with POLARBEAR," _ApJ_, 794, 171 (2014). [doi:10.1088/0004-637X/794/2/171](https://doi.org/10.1088/0004-637X/794/2/171)
+3. The POLARBEAR Collaboration. "Measurement of the CMB Polarization Lensing Power Spectrum with POLARBEAR," _PRL_, 113, 021301 (2014). [doi:10.1103/PhysRevLett.113.021301](https://doi.org/10.1103/PhysRevLett.113.021301)
+4. N. Stebor et al. "The Simons Array CMB Polarization Experiment," _Proc. SPIE_ 9914, 99141H (2016). [doi:10.1117/12.2233103](https://doi.org/10.1117/12.2233103)
+5. **P. Siritanasak** et al. "Broadband AR-Coated Extended Hemispherical Silicon Lenses for POLARBEAR-2," _JLTP_, 184, 553 (2016). [doi:10.1007/s10909-015-1396-x](https://doi.org/10.1007/s10909-015-1396-x)
+6. The POLARBEAR Collaboration. "A Measurement of the CMB B-mode Power Spectrum from Two Years of POLARBEAR Data," _ApJ_, 848, 121 (2017). [doi:10.3847/1538-4357/aa8e9f](https://doi.org/10.3847/1538-4357/aa8e9f)
+7. The POLARBEAR Collaboration. "A Measurement of the Degree-Scale CMB B-Mode Angular Power Spectrum with POLARBEAR," _ApJ_, 897, 55 (2020). [doi:10.3847/1538-4357/ab8f24](https://doi.org/10.3847/1538-4357/ab8f24)
 
 For the full list of publications, see the [publications page](/publications/).
 
@@ -158,13 +158,13 @@ Simons Array คือการขยายตัวของการทดล�
 
 ผลงานวิจัยสำคัญจาก POLARBEAR/Simons Array:
 
-1. Z. Kermish et al. "The POLARBEAR Experiment," *Proc. SPIE* 8452, 84521C (2012). [doi:10.1117/12.926354](https://doi.org/10.1117/12.926354)
-2. The POLARBEAR Collaboration. "A Measurement of the CMB B-mode Polarization Power Spectrum at Sub-degree Scales with POLARBEAR," *ApJ*, 794, 171 (2014). [doi:10.1088/0004-637X/794/2/171](https://doi.org/10.1088/0004-637X/794/2/171)
-3. The POLARBEAR Collaboration. "Measurement of the CMB Polarization Lensing Power Spectrum with POLARBEAR," *PRL*, 113, 021301 (2014). [doi:10.1103/PhysRevLett.113.021301](https://doi.org/10.1103/PhysRevLett.113.021301)
-4. N. Stebor et al. "The Simons Array CMB Polarization Experiment," *Proc. SPIE* 9914, 99141H (2016). [doi:10.1117/12.2233103](https://doi.org/10.1117/12.2233103)
-5. **P. Siritanasak** et al. "Broadband AR-Coated Extended Hemispherical Silicon Lenses for POLARBEAR-2," *JLTP*, 184, 553 (2016). [doi:10.1007/s10909-015-1396-x](https://doi.org/10.1007/s10909-015-1396-x)
-6. The POLARBEAR Collaboration. "A Measurement of the CMB B-mode Power Spectrum from Two Years of POLARBEAR Data," *ApJ*, 848, 121 (2017). [doi:10.3847/1538-4357/aa8e9f](https://doi.org/10.3847/1538-4357/aa8e9f)
-7. The POLARBEAR Collaboration. "A Measurement of the Degree-Scale CMB B-Mode Angular Power Spectrum with POLARBEAR," *ApJ*, 897, 55 (2020). [doi:10.3847/1538-4357/ab8f24](https://doi.org/10.3847/1538-4357/ab8f24)
+1. Z. Kermish et al. "The POLARBEAR Experiment," _Proc. SPIE_ 8452, 84521C (2012). [doi:10.1117/12.926354](https://doi.org/10.1117/12.926354)
+2. The POLARBEAR Collaboration. "A Measurement of the CMB B-mode Polarization Power Spectrum at Sub-degree Scales with POLARBEAR," _ApJ_, 794, 171 (2014). [doi:10.1088/0004-637X/794/2/171](https://doi.org/10.1088/0004-637X/794/2/171)
+3. The POLARBEAR Collaboration. "Measurement of the CMB Polarization Lensing Power Spectrum with POLARBEAR," _PRL_, 113, 021301 (2014). [doi:10.1103/PhysRevLett.113.021301](https://doi.org/10.1103/PhysRevLett.113.021301)
+4. N. Stebor et al. "The Simons Array CMB Polarization Experiment," _Proc. SPIE_ 9914, 99141H (2016). [doi:10.1117/12.2233103](https://doi.org/10.1117/12.2233103)
+5. **P. Siritanasak** et al. "Broadband AR-Coated Extended Hemispherical Silicon Lenses for POLARBEAR-2," _JLTP_, 184, 553 (2016). [doi:10.1007/s10909-015-1396-x](https://doi.org/10.1007/s10909-015-1396-x)
+6. The POLARBEAR Collaboration. "A Measurement of the CMB B-mode Power Spectrum from Two Years of POLARBEAR Data," _ApJ_, 848, 121 (2017). [doi:10.3847/1538-4357/aa8e9f](https://doi.org/10.3847/1538-4357/aa8e9f)
+7. The POLARBEAR Collaboration. "A Measurement of the Degree-Scale CMB B-Mode Angular Power Spectrum with POLARBEAR," _ApJ_, 897, 55 (2020). [doi:10.3847/1538-4357/ab8f24](https://doi.org/10.3847/1538-4357/ab8f24)
 
 ดูรายการผลงานวิจัยทั้งหมดได้ที่ [หน้าผลงานวิจัย](/publications/)
 
