@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-03'
+  last_updated: '2026-06-10'
 papers:
   L1KGyh0AAAAJ:0EnyYjriUFMC:
     citations: 8
@@ -62,7 +62,7 @@ papers:
     title: Electrical characterization and tuning of the integrated POLARBEAR-2a focal plane and readout (Conference Presentation)
     year: '2018'
   L1KGyh0AAAAJ:L8Ckcad2t8MC:
-    citations: 135
+    citations: 136
     title: POLARBEAR constraints on cosmic birefringence and primordial magnetic fields
     year: '2015'
   L1KGyh0AAAAJ:M3NEmzRMIkIC:
@@ -74,7 +74,7 @@ papers:
     title: 'The Simons Array: expanding POLARBEAR to three multi-chroic telescopes'
     year: '2014'
   L1KGyh0AAAAJ:NMxIlDl6LWMC:
-    citations: 2061
+    citations: 2056
     title: 'The Simons Observatory: science goals and forecasts'
     year: '2019'
   L1KGyh0AAAAJ:NaGl4SEjCO4C:
@@ -122,7 +122,7 @@ papers:
     title: The POLARBEAR cosmic microwave background polarization experiment
     year: '2014'
   L1KGyh0AAAAJ:W7OEmFMy1HYC:
-    citations: 458
+    citations: 460
     title: A MEASUREMENT OF THE COSMIC MICROWAVE BACKGROUND B-MODE POLARIZATION POWER SPECTRUM AT SUB-DEGREE SCALES WITH POLARBEAR
     year: '2014'
   L1KGyh0AAAAJ:Y0pCki6q_DkC:
@@ -162,7 +162,7 @@ papers:
     title: The polarbear-2 and simons array focal plane fabrication status
     year: '2018'
   L1KGyh0AAAAJ:cFHS6HbyZ2cC:
-    citations: 38
+    citations: 39
     title: Constraints on axionlike polarization oscillations in the cosmic microwave background with POLARBEAR
     year: '2023'
   L1KGyh0AAAAJ:d1gkVwhDpl0C:
@@ -238,7 +238,7 @@ papers:
     title: Epoxy-based broadband antireflection coating for millimeter-wave optics
     year: '2013'
   L1KGyh0AAAAJ:rO6llkc54NcC:
-    citations: 40
+    citations: 39
     title: Improved Upper Limit on Degree-scale CMB B-mode Polarization Power from the 670 Square-degree POLARBEAR Survey
     year: '2022'
   L1KGyh0AAAAJ:u-x6o8ySG0sC:
