@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-24'
+  last_updated: '2026-07-08'
 papers:
   L1KGyh0AAAAJ:0EnyYjriUFMC:
     citations: 8
@@ -22,7 +22,7 @@ papers:
     title: POLARBEAR Collaboration
     year: '2013'
   L1KGyh0AAAAJ:9yKSN-GCB0IC:
-    citations: 60
+    citations: 61
     title: The bolometric focal plane array of the POLARBEAR CMB experiment
     year: '2012'
   L1KGyh0AAAAJ:BqipwSGYUEgC:
@@ -46,7 +46,7 @@ papers:
     title: The POLARBEAR Fourier transform spectrometer calibrator and spectroscopic characterization of the POLARBEAR instrument
     year: '2019'
   L1KGyh0AAAAJ:HDshCWvjkbEC:
-    citations: 33
+    citations: 34
     title: 'Making maps of cosmic microwave background polarization for B-mode studies: the POLARBEAR example'
     year: '2017'
   L1KGyh0AAAAJ:HoB7MX3m0LUC:
@@ -78,7 +78,7 @@ papers:
     title: 'The Simons Array: expanding POLARBEAR to three multi-chroic telescopes'
     year: '2014'
   L1KGyh0AAAAJ:NMxIlDl6LWMC:
-    citations: 2088
+    citations: 2112
     title: 'The Simons Observatory: science goals and forecasts'
     year: '2019'
   L1KGyh0AAAAJ:NaGl4SEjCO4C:
@@ -102,7 +102,7 @@ papers:
     title: A measurement of the cosmic microwave background B-mode polarization with POLARBEAR
     year: '2015'
   L1KGyh0AAAAJ:RGFaLdJalmkC:
-    citations: 105
+    citations: 106
     title: A Measurement of the Degree-scale CMB B-mode Angular Power Spectrum with Polarbear
     year: '2020'
   L1KGyh0AAAAJ:RYcK_YlVTxYC:
@@ -126,7 +126,7 @@ papers:
     title: The POLARBEAR cosmic microwave background polarization experiment
     year: '2014'
   L1KGyh0AAAAJ:W7OEmFMy1HYC:
-    citations: 461
+    citations: 462
     title: A MEASUREMENT OF THE COSMIC MICROWAVE BACKGROUND B-MODE POLARIZATION POWER SPECTRUM AT SUB-DEGREE SCALES WITH POLARBEAR
     year: '2014'
   L1KGyh0AAAAJ:Y0pCki6q_DkC:
@@ -162,7 +162,7 @@ papers:
     title: Deployment of POLARBEAR-2b
     year: '2024'
   L1KGyh0AAAAJ:blknAaTinKkC:
-    citations: 49
+    citations: 50
     title: The polarbear-2 and simons array focal plane fabrication status
     year: '2018'
   L1KGyh0AAAAJ:cFHS6HbyZ2cC:
@@ -174,7 +174,7 @@ papers:
     title: Multichroic dual-polarization bolometric detectors for studies of the cosmic microwave background
     year: '2012'
   L1KGyh0AAAAJ:e5wmG9Sq2KIC:
-    citations: 94
+    citations: 95
     title: Performance of a continuously rotating half-wave plate on the POLARBEAR telescope
     year: '2017'
   L1KGyh0AAAAJ:eQOLeE2rZwMC:
