@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-08'
+  last_updated: '2026-07-13'
 papers:
   L1KGyh0AAAAJ:0EnyYjriUFMC:
     citations: 8
@@ -78,15 +78,15 @@ papers:
     title: 'The Simons Array: expanding POLARBEAR to three multi-chroic telescopes'
     year: '2014'
   L1KGyh0AAAAJ:NMxIlDl6LWMC:
-    citations: 2112
+    citations: 2110
     title: 'The Simons Observatory: science goals and forecasts'
     year: '2019'
   L1KGyh0AAAAJ:NaGl4SEjCO4C:
-    citations: 41
+    citations: 42
     title: Measurement of the cosmic microwave background polarization lensing power spectrum from two years of POLARBEAR data
     year: '2020'
   L1KGyh0AAAAJ:NhqRSupF_l8C:
-    citations: 2
+    citations: 3
     title: Constraints on the polarization angle oscillations of the Crab Nebula with the Simons Array and its applications to the search for axionlike particles
     year: '2026'
   L1KGyh0AAAAJ:O3NaXMp0MMsC:
@@ -246,7 +246,7 @@ papers:
     title: The POLARBEAR-2 experiment
     year: '2012'
   L1KGyh0AAAAJ:u5HHmVD_uO8C:
-    citations: 165
+    citations: 166
     title: The POLARBEAR experiment
     year: '2012'
   L1KGyh0AAAAJ:vV6vV6tmYwMC:
