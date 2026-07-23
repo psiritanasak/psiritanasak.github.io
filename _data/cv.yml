@@ -47,6 +47,7 @@ cv:
         highlights:
           - CMB polarization instrumentation and detector development
           - Member of the POLARBEAR/Simons Array collaboration
+          - 'Dark photon search: member of the Siam Dark Photon (SDP) Consortium'
 
       - company: Center for Astrophysics and Space Sciences (CASS), UC San Diego
         position: Postdoctoral Research Fellow
@@ -66,35 +67,54 @@ cv:
           - The POLARBEAR and the Simons Array CMB polarization experiment
 
     Awards:
-      - name: Royal Thai Government Scholarship
+      - title: Royal Thai Government Scholarship
+        awarder: Royal Thai Government
         date: 2010
-        highlights:
-          - Full-ride graduate scholarship for doctoral study abroad, 2010–2017
+        summary: Full-ride graduate scholarship for doctoral study abroad (2010–2017)
 
-      - name: Sritrangthong Scholarship
+      - title: Sritrangthong Scholarship
+        awarder: Mahidol University
         date: 2005
-        highlights:
-          - Merit-based undergraduate scholarship, Mahidol University, 2005–2009
+        summary: Merit-based undergraduate scholarship (2005–2009)
 
     Skills:
-      - label: CMB Instrumentation
-        details: POLARBEAR, Simons Array, TES detectors, receiver development, cryogenics, anti-reflection coatings
+      - name: CMB Instrumentation
+        keywords:
+          - POLARBEAR
+          - Simons Array
+          - TES detectors
+          - receiver development
+          - cryogenics
+          - anti-reflection coatings
 
-      - label: Data Analysis
-        details: CMB polarization analysis, B-mode detection, gravitational lensing, power spectrum estimation
+      - name: Data Analysis
+        keywords:
+          - CMB polarization analysis
+          - B-mode detection
+          - gravitational lensing
+          - power spectrum estimation
 
-      - label: Programming & Tools
-        details: Python, C, MATLAB, Mathematica, LaTeX, Solidworks, HFSS
+      - name: Programming & Tools
+        keywords:
+          - Python
+          - C
+          - MATLAB
+          - Mathematica
+          - LaTeX
+          - Solidworks
+          - HFSS
 
-      - label: Operating Systems
-        details: macOS, Linux (RedHat, Ubuntu, Linux Mint)
+      - name: Operating Systems
+        keywords:
+          - macOS
+          - Linux (RedHat, Ubuntu, Linux Mint)
 
     Languages:
-      - label: Thai
-        details: Native
+      - name: Thai
+        summary: Native
 
-      - label: English
-        details: Fluent
+      - name: English
+        summary: Fluent
 
     Presentations:
       - bullet: '**Oral:** "The Current Status of POLARBEAR and Simons Array Experiment," 19th Siam Physics Congress, Ayutthaya, Thailand (2024)'
