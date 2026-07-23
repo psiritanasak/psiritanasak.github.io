@@ -95,3 +95,8 @@ cv:
 
       - label: English
         details: Fluent
+
+    Presentations:
+      - bullet: '**Oral:** "The Current Status of POLARBEAR and Simons Array Experiment," 19th Siam Physics Congress, Ayutthaya, Thailand (2024)'
+      - bullet: '**Oral:** "Instrument Development of the CMB Polarization POLARBEAR-2 Experiment," 230th American Astronomical Society Meeting, Austin, Texas, USA (2017)'
+      - bullet: '**Poster:** "The Broadband Anti-Reflection Coated Extended Hemispherical Silicon Lenses for POLARBEAR-2 Experiment," 16th International Workshop on Low Temperature Detectors, Grenoble, France (2015)'
