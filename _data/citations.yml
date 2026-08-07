@@ -1,16 +1,20 @@
 metadata:
-  last_updated: '2026-07-22'
+  last_updated: '2026-08-07'
 papers:
   L1KGyh0AAAAJ:0EnyYjriUFMC:
-    citations: 8
+    citations: 12
     title: Development and characterization of the readout system for POLARBEAR-2
     year: '2014'
+  L1KGyh0AAAAJ:1sJd4Hv_s6UC:
+    citations: 10
+    title: A measurement of the cosmic microwave background b-mode polarization power spectrum at subdegree scales from two years of polarbear data
+    year: '2017'
   L1KGyh0AAAAJ:2osOgNQ5qMEC:
     citations: 11
     title: POLARBEAR-2 optical and polarimeter designs
     year: '2012'
   L1KGyh0AAAAJ:35N4QoGY0k4C:
-    citations: 56
+    citations: 57
     title: A Measurement of the CMB E-mode Angular Power Spectrum at Subdegree Scales from 670 Square Degrees of POLARBEAR Data
     year: '2020'
   L1KGyh0AAAAJ:5nxA0vEk-isC:
@@ -22,19 +26,15 @@ papers:
     title: POLARBEAR Collaboration
     year: '2013'
   L1KGyh0AAAAJ:9yKSN-GCB0IC:
-    citations: 61
+    citations: 64
     title: The bolometric focal plane array of the POLARBEAR CMB experiment
     year: '2012'
   L1KGyh0AAAAJ:BqipwSGYUEgC:
     citations: 35
     title: Evidence for the cross-correlation between cosmic microwave background polarization lensing from polarbear and cosmic shear from subaru hyper suprime-cam
     year: '2019'
-  L1KGyh0AAAAJ:CHSYGLWDkRkC:
-    citations: 2
-    title: "Erratum: \u201CA Measurement of the Cosmic Microwave Background B-Mode Polarization Power Spectrum at Sub-degree Scales with POLARBEAR\u201D (2014, ApJ, 794 \u2026"
-    year: '2017'
   L1KGyh0AAAAJ:D03iK_w7-QYC:
-    citations: 2
+    citations: 3
     title: Design and performance of a gain calibration system for the POLARBEAR-2a receiver system at the Simons Array cosmic microwave background experiment
     year: '2024'
   L1KGyh0AAAAJ:EUQCXRtRnyEC:
@@ -46,8 +46,8 @@ papers:
     title: The POLARBEAR Fourier transform spectrometer calibrator and spectroscopic characterization of the POLARBEAR instrument
     year: '2019'
   L1KGyh0AAAAJ:HDshCWvjkbEC:
-    citations: 35
-    title: 'Making maps of cosmic microwave background polarization for B-mode studies: the POLARBEAR example'
+    citations: 37
+    title: 'Making maps of cosmic microwave background polarization   for B-mode studies: the POLARBEAR example'
     year: '2017'
   L1KGyh0AAAAJ:HoB7MX3m0LUC:
     citations: 2
@@ -58,7 +58,7 @@ papers:
     title: The Broadband Anti-reflection Coated Extended Hemispherical Silicon Lenses for Polarbear-2 Experiment
     year: '2016'
   L1KGyh0AAAAJ:IjCSPb-OGe4C:
-    citations: 121
+    citations: 122
     title: Evidence for gravitational lensing of the cosmic microwave background polarization from cross-correlation with the cosmic infrared background
     year: '2014'
   L1KGyh0AAAAJ:JV2RwH3_ST0C:
@@ -66,19 +66,19 @@ papers:
     title: Electrical characterization and tuning of the integrated POLARBEAR-2a focal plane and readout (Conference Presentation)
     year: '2018'
   L1KGyh0AAAAJ:L8Ckcad2t8MC:
-    citations: 137
+    citations: 138
     title: POLARBEAR constraints on cosmic birefringence and primordial magnetic fields
     year: '2015'
   L1KGyh0AAAAJ:M3NEmzRMIkIC:
-    citations: 26
+    citations: 25
     title: 'Studies of systematic uncertainties for Simons Observatory: detector array effects'
     year: '2018'
   L1KGyh0AAAAJ:MXK_kJrjxJIC:
-    citations: 29
+    citations: 48
     title: 'The Simons Array: expanding POLARBEAR to three multi-chroic telescopes'
     year: '2014'
   L1KGyh0AAAAJ:NMxIlDl6LWMC:
-    citations: 2130
+    citations: 2160
     title: 'The Simons Observatory: science goals and forecasts'
     year: '2019'
   L1KGyh0AAAAJ:NaGl4SEjCO4C:
@@ -93,8 +93,12 @@ papers:
     citations: 0
     title: TES Bolometer and DfMux Readout Characterization for POLARBEAR-2B
     year: Unknown Year
+  L1KGyh0AAAAJ:P5F9QuxV20EC:
+    citations: 0
+    title: The POLARBEAR experiment
+    year: '2012'
   L1KGyh0AAAAJ:QIV2ME_5wuYC:
-    citations: 73
+    citations: 77
     title: Modeling atmospheric emission for CMB ground-based observations
     year: '2015'
   L1KGyh0AAAAJ:R3hNpaxXUhUC:
@@ -102,7 +106,7 @@ papers:
     title: A measurement of the cosmic microwave background B-mode polarization with POLARBEAR
     year: '2015'
   L1KGyh0AAAAJ:RGFaLdJalmkC:
-    citations: 106
+    citations: 107
     title: A Measurement of the Degree-scale CMB B-mode Angular Power Spectrum with Polarbear
     year: '2020'
   L1KGyh0AAAAJ:RYcK_YlVTxYC:
@@ -114,7 +118,7 @@ papers:
     title: Method for rapid performance validation of large TES bolometer array for POLARBEAR-2A using a coherent millimeter-wave source
     year: '2021'
   L1KGyh0AAAAJ:TQgYirikUcIC:
-    citations: 69
+    citations: 67
     title: 'POLARBEAR-2: an instrument for CMB polarization measurements'
     year: '2016'
   L1KGyh0AAAAJ:Tyk-4Ss8FVUC:
@@ -126,7 +130,7 @@ papers:
     title: The POLARBEAR cosmic microwave background polarization experiment
     year: '2014'
   L1KGyh0AAAAJ:W7OEmFMy1HYC:
-    citations: 461
+    citations: 530
     title: A MEASUREMENT OF THE COSMIC MICROWAVE BACKGROUND B-MODE POLARIZATION POWER SPECTRUM AT SUB-DEGREE SCALES WITH POLARBEAR
     year: '2014'
   L1KGyh0AAAAJ:Y0pCki6q_DkC:
@@ -162,7 +166,7 @@ papers:
     title: Deployment of POLARBEAR-2b
     year: '2024'
   L1KGyh0AAAAJ:blknAaTinKkC:
-    citations: 49
+    citations: 51
     title: The polarbear-2 and simons array focal plane fabrication status
     year: '2018'
   L1KGyh0AAAAJ:cFHS6HbyZ2cC:
@@ -170,23 +174,23 @@ papers:
     title: Constraints on axionlike polarization oscillations in the cosmic microwave background with POLARBEAR
     year: '2023'
   L1KGyh0AAAAJ:d1gkVwhDpl0C:
-    citations: 59
+    citations: 61
     title: Multichroic dual-polarization bolometric detectors for studies of the cosmic microwave background
     year: '2012'
   L1KGyh0AAAAJ:e5wmG9Sq2KIC:
-    citations: 95
+    citations: 100
     title: Performance of a continuously rotating half-wave plate on the POLARBEAR telescope
     year: '2017'
   L1KGyh0AAAAJ:eQOLeE2rZwMC:
     citations: 1
-    title: POLARBEAR CMB Polarization Experiment
+    title: POLARBEAR CMB polarization experiment
     year: '2014'
   L1KGyh0AAAAJ:f2IySw72cVMC:
-    citations: 2
+    citations: 3
     title: Calibration of Detector Time Constant with a Thermal Source for the Polarbear-2A CMB Polarization Experiment
     year: '2022'
   L1KGyh0AAAAJ:fPk4N6BV_jEC:
-    citations: 1
+    citations: 2
     title: On-site detector noise characterization of the POLARBEAR-2A receiver
     year: '2022'
   L1KGyh0AAAAJ:g5m5HwL7SMYC:
@@ -194,7 +198,7 @@ papers:
     title: Development of an optical detector testbed for the Simons Observatory
     year: '2020'
   L1KGyh0AAAAJ:hMod-77fHWUC:
-    citations: 36
+    citations: 35
     title: Measurements of Tropospheric Ice Clouds with a Ground-based CMB Polarization Experiment, POLARBEAR
     year: '2019'
   L1KGyh0AAAAJ:k_IJM867U9cC:
@@ -202,7 +206,7 @@ papers:
     title: Precise Measurement of B-mode polarization signal from the cosmic microwave background with the Polarbear and the Simons Array
     year: '2018'
   L1KGyh0AAAAJ:lSLTfruPkqcC:
-    citations: 5
+    citations: 6
     title: Effect of stray impedance in frequency-division multiplexed readout of TES sensors in POLARBEAR-2b
     year: '2020'
   L1KGyh0AAAAJ:mB3voiENLucC:
@@ -214,23 +218,23 @@ papers:
     title: The POLARBEAR-2 experiment
     year: '2014'
   L1KGyh0AAAAJ:maZDTaKrznsC:
-    citations: 8
+    citations: 7
     title: 'POLARBEAR-2: a new CMB polarization receiver system for the Simons array (Conference Presentation)'
     year: '2018'
   L1KGyh0AAAAJ:ns9cj8rnVeAC:
-    citations: 42
+    citations: 41
     title: Internal Delensing of Cosmic Microwave Background Polarization -Modes with the POLARBEAR Experiment
     year: '2020'
   L1KGyh0AAAAJ:pqnbT2bcN3wC:
-    citations: 5
+    citations: 6
     title: 'Data acquisition and management system for the CMB polarization experiment: Simons Array'
     year: '2020'
   L1KGyh0AAAAJ:pyW8ca7W8N0C:
-    citations: 19
+    citations: 20
     title: Exploration of the polarization angle variability of the Crab Nebula with POLARBEAR and its application to the search for axionlike particles
     year: '2024'
   L1KGyh0AAAAJ:qUcmZB5y_30C:
-    citations: 222
+    citations: 225
     title: The Polarbear-2 and the Simons Array Experiments
     year: '2016'
   L1KGyh0AAAAJ:qjMakFHDy7sC:
@@ -238,25 +242,21 @@ papers:
     title: Epoxy-based broadband antireflection coating for millimeter-wave optics
     year: '2013'
   L1KGyh0AAAAJ:rO6llkc54NcC:
-    citations: 39
+    citations: 42
     title: Improved Upper Limit on Degree-scale CMB B-mode Polarization Power from the 670 Square-degree POLARBEAR Survey
     year: '2022'
   L1KGyh0AAAAJ:u-x6o8ySG0sC:
-    citations: 34
+    citations: 33
     title: The POLARBEAR-2 experiment
     year: '2012'
   L1KGyh0AAAAJ:u5HHmVD_uO8C:
-    citations: 166
+    citations: 168
     title: The POLARBEAR experiment
     year: '2012'
   L1KGyh0AAAAJ:vV6vV6tmYwMC:
     citations: 1
     title: Results of gravitational lensing and primordial gravitational waves from the POLARBEAR experiment
     year: '2020'
-  L1KGyh0AAAAJ:xtRiw3GOFMkC:
-    citations: 115
-    title: A Measurement of the Cosmic Microwave Background B-mode Polarization Power Spectrum at Subdegree Scales from Two Years of polarbear Data
-    year: '2017'
   L1KGyh0AAAAJ:yD5IFk8b50cC:
     citations: 0
     title: Predictive power of daily viscacha and vicu\~ na sightings on Simons Array site work results
