@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-17'
+  last_updated: '2026-08-24'
 papers:
   L1KGyh0AAAAJ:0EnyYjriUFMC:
     citations: 12
@@ -42,7 +42,7 @@ papers:
     title: A measurement of atmospheric circular polarization with POLARBEAR
     year: '2025'
   L1KGyh0AAAAJ:GnPB-g6toBAC:
-    citations: 18
+    citations: 19
     title: The POLARBEAR Fourier transform spectrometer calibrator and spectroscopic characterization of the POLARBEAR instrument
     year: '2019'
   L1KGyh0AAAAJ:HDshCWvjkbEC:
@@ -78,7 +78,7 @@ papers:
     title: 'The Simons Array: expanding POLARBEAR to three multi-chroic telescopes'
     year: '2014'
   L1KGyh0AAAAJ:NMxIlDl6LWMC:
-    citations: 2176
+    citations: 2183
     title: 'The Simons Observatory: science goals and forecasts'
     year: '2019'
   L1KGyh0AAAAJ:NaGl4SEjCO4C:
@@ -238,7 +238,7 @@ papers:
     title: Exploration of the polarization angle variability of the Crab Nebula with POLARBEAR and its application to the search for axionlike particles
     year: '2024'
   L1KGyh0AAAAJ:qUcmZB5y_30C:
-    citations: 226
+    citations: 227
     title: The Polarbear-2 and the Simons Array Experiments
     year: '2016'
   L1KGyh0AAAAJ:qjMakFHDy7sC:
