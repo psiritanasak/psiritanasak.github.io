@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-24'
+  last_updated: '2026-08-28'
 papers:
   L1KGyh0AAAAJ:0EnyYjriUFMC:
     citations: 12
@@ -58,7 +58,7 @@ papers:
     title: The Broadband Anti-reflection Coated Extended Hemispherical Silicon Lenses for Polarbear-2 Experiment
     year: '2016'
   L1KGyh0AAAAJ:IjCSPb-OGe4C:
-    citations: 122
+    citations: 123
     title: Evidence for gravitational lensing of the cosmic microwave background polarization from cross-correlation with the cosmic infrared background
     year: '2014'
   L1KGyh0AAAAJ:JV2RwH3_ST0C:
@@ -66,7 +66,7 @@ papers:
     title: Electrical characterization and tuning of the integrated POLARBEAR-2a focal plane and readout (Conference Presentation)
     year: '2018'
   L1KGyh0AAAAJ:L8Ckcad2t8MC:
-    citations: 138
+    citations: 139
     title: POLARBEAR constraints on cosmic birefringence and primordial magnetic fields
     year: '2015'
   L1KGyh0AAAAJ:M3NEmzRMIkIC:
@@ -78,7 +78,7 @@ papers:
     title: 'The Simons Array: expanding POLARBEAR to three multi-chroic telescopes'
     year: '2014'
   L1KGyh0AAAAJ:NMxIlDl6LWMC:
-    citations: 2183
+    citations: 2185
     title: 'The Simons Observatory: science goals and forecasts'
     year: '2019'
   L1KGyh0AAAAJ:NaGl4SEjCO4C:
@@ -126,7 +126,7 @@ papers:
     title: Collaborators
     year: '2013'
   L1KGyh0AAAAJ:UeHWp8X0CEIC:
-    citations: 9
+    citations: 10
     title: The POLARBEAR cosmic microwave background polarization experiment
     year: '2014'
   L1KGyh0AAAAJ:W7OEmFMy1HYC:
