@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-28'
+  last_updated: '2026-09-04'
 papers:
   L1KGyh0AAAAJ:0EnyYjriUFMC:
     citations: 12
@@ -26,7 +26,7 @@ papers:
     title: POLARBEAR Collaboration
     year: '2013'
   L1KGyh0AAAAJ:9yKSN-GCB0IC:
-    citations: 64
+    citations: 65
     title: The bolometric focal plane array of the POLARBEAR CMB experiment
     year: '2012'
   L1KGyh0AAAAJ:BqipwSGYUEgC:
@@ -66,7 +66,7 @@ papers:
     title: Electrical characterization and tuning of the integrated POLARBEAR-2a focal plane and readout (Conference Presentation)
     year: '2018'
   L1KGyh0AAAAJ:L8Ckcad2t8MC:
-    citations: 139
+    citations: 141
     title: POLARBEAR constraints on cosmic birefringence and primordial magnetic fields
     year: '2015'
   L1KGyh0AAAAJ:M3NEmzRMIkIC:
@@ -78,7 +78,7 @@ papers:
     title: 'The Simons Array: expanding POLARBEAR to three multi-chroic telescopes'
     year: '2014'
   L1KGyh0AAAAJ:NMxIlDl6LWMC:
-    citations: 2185
+    citations: 2193
     title: 'The Simons Observatory: science goals and forecasts'
     year: '2019'
   L1KGyh0AAAAJ:NaGl4SEjCO4C:
@@ -190,7 +190,7 @@ papers:
     title: Calibration of Detector Time Constant with a Thermal Source for the Polarbear-2A CMB Polarization Experiment
     year: '2022'
   L1KGyh0AAAAJ:fPk4N6BV_jEC:
-    citations: 3
+    citations: 2
     title: On-site detector noise characterization of the POLARBEAR-2A receiver
     year: '2022'
   L1KGyh0AAAAJ:g5m5HwL7SMYC:
