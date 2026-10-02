@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://psiritanasak.github.io/sitemap.xml
+Sitemap: https://praween.space/sitemap.xml
