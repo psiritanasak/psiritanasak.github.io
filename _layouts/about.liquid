@@ -40,6 +40,20 @@ layout: default
 
     <div class="clearfix">{{ content }}</div>
 
+    <!-- Research highlights -->
+    {% if page.research_cards %}
+      <div class="research-cards">
+        {% for card in page.research_cards %}
+          <a class="research-card" href="{{ card.url | relative_url }}">
+            <div class="research-card-icon"><i class="{{ card.icon }}"></i></div>
+            <div class="research-card-title">{{ card.title }}</div>
+            <p class="research-card-text">{{ card.text }}</p>
+            <span class="research-card-more">Read more &rarr;</span>
+          </a>
+        {% endfor %}
+      </div>
+    {% endif %}
+
     <!-- News -->
     {% if page.announcements and page.announcements.enabled %}
       <h2>

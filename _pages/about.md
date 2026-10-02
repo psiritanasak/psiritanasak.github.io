@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Researcher, <a href='https://www.narit.or.th/en/' target='_blank'>National Astronomical Research Institute of Thailand (NARIT)</a>
+subtitle: Experimental cosmologist &middot; Researcher at <a href='https://www.narit.or.th/en/' target='_blank'>National Astronomical Research Institute of Thailand (NARIT)</a>
 
 profile:
   align: right
@@ -14,11 +14,23 @@ profile:
     <p>Chiangmai 50180, Thailand</p>
     <p><a href="mailto:praween@narit.or.th">praween@narit.or.th</a></p>
 
+research_cards:
+  - title: CMB Polarization
+    icon: fa-solid fa-satellite-dish
+    text: Building and testing ultra-sensitive detectors for POLARBEAR and the Simons Array to hunt for primordial B-modes.
+    url: /research/
+  - title: Dark Photon Search
+    icon: fa-solid fa-atom
+    text: Probing the dark sector with a high-sensitivity 230 GHz SIS receiver in the Siam Dark Photon Consortium.
+    url: /research/dark-photon/
+
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: false
+  enabled: true
+  scrollable: true
+  limit: 5
 
 latest_posts:
   enabled: true

@@ -1,0 +1,140 @@
+/*******************************************************************************
+ * Site design: "cosmic minimal"
+ * Fonts, softer publication badges, home research cards and a light footer.
+ ******************************************************************************/
+
+$font-sans:
+  "Inter",
+  "Noto Sans Thai",
+  -apple-system,
+  BlinkMacSystemFont,
+  "Segoe UI",
+  sans-serif;
+$font-serif: "Source Serif 4", "Noto Sans Thai", Georgia, serif;
+
+body {
+  font-family: $font-sans;
+  font-weight: 400;
+  line-height: 1.7;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1,
+h2,
+h3,
+.post-title,
+.page-title {
+  font-family: $font-serif;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+
+.navbar-brand.title {
+  font-family: $font-serif;
+}
+
+// Home page header: name, subtitle and a short accent rule
+.post-header .desc {
+  color: var(--global-text-color-light);
+  font-size: 1.05rem;
+
+  &::after {
+    content: "";
+    display: block;
+    width: 3rem;
+    height: 3px;
+    margin-top: 1rem;
+    border-radius: 2px;
+    background: linear-gradient(90deg, var(--global-theme-color), var(--global-highlight-color));
+  }
+}
+
+// Section headings on the home page (news, latest posts, selected publications)
+.post article > h2 {
+  margin-top: 2.5rem;
+  font-size: 1.6rem;
+}
+
+// Research highlight cards
+.research-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
+  gap: 1rem;
+  margin: 2rem 0 1rem;
+}
+
+.research-card {
+  position: relative;
+  display: block;
+  padding: 1.25rem 1.25rem 1.1rem;
+  border: 1px solid var(--global-divider-color);
+  border-radius: 0.75rem;
+  background: var(--global-card-bg-color);
+  color: var(--global-text-color) !important;
+  overflow: hidden;
+  transition:
+    transform 0.15s ease,
+    border-color 0.15s ease,
+    box-shadow 0.15s ease;
+
+  &::before {
+    content: "";
+    position: absolute;
+    inset: 0 0 auto 0;
+    height: 3px;
+    background: linear-gradient(90deg, var(--global-theme-color), var(--global-highlight-color));
+  }
+
+  &:hover {
+    text-decoration: none;
+    transform: translateY(-2px);
+    border-color: var(--global-theme-color);
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.08);
+  }
+
+  .research-card-icon {
+    font-size: 1.4rem;
+    color: var(--global-theme-color);
+    margin-bottom: 0.5rem;
+  }
+
+  .research-card-title {
+    font-family: $font-serif;
+    font-size: 1.15rem;
+    font-weight: 600;
+    margin-bottom: 0.3rem;
+  }
+
+  .research-card-text {
+    font-size: 0.9rem;
+    color: var(--global-text-color-light);
+    margin: 0;
+  }
+
+  .research-card-more {
+    display: inline-block;
+    margin-top: 0.75rem;
+    font-size: 0.85rem;
+    font-weight: 500;
+    color: var(--global-theme-color);
+  }
+}
+
+// Publications: tinted badges instead of solid blocks
+.publications ol.bibliography li .abbr abbr {
+  background-color: color-mix(in srgb, var(--global-theme-color) 10%, transparent) !important;
+  color: var(--global-theme-color) !important;
+  border: 1px solid color-mix(in srgb, var(--global-theme-color) 35%, transparent);
+  border-radius: 999px !important;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+
+  a {
+    color: var(--global-theme-color);
+  }
+}
+
+// Footer: quiet bar with a divider instead of a dark block
+footer.fixed-bottom {
+  border-top: 1px solid var(--global-divider-color);
+}

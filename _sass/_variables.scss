@@ -24,6 +24,15 @@ $pink-color: #f92080 !default;
 $pink-color-light: #ffdddd !default;
 $yellow-color: #efcc00 !default;
 
+// Cosmic palette (site accent colors)
+$navy-color: #1f4e8c !default;
+$cmb-orange-color: #e07a2e !default;
+$cmb-orange-light-color: #f2a65e !default;
+$space-color: #0f1522 !default;
+$space-card-color: #172033 !default;
+$space-divider-color: #2a3346 !default;
+$space-text-color: #dde3ec !default;
+
 $grey-color: #828282 !default;
 $grey-color-light: color.adjust($grey-color, $lightness: 40%);
 $grey-color-dark: #1c1c1d;
@@ -34,7 +43,7 @@ $black-color: #000000 !default;
 
 // Theme colors
 
-$code-bg-color-light: rgba($purple-color, 0.05);
+$code-bg-color-light: rgba($navy-color, 0.05);
 $code-bg-color-dark: #2c3237 !default;
 
 // Font awesome location
