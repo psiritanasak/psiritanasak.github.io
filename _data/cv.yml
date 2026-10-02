@@ -67,52 +67,33 @@ cv:
           - The POLARBEAR and the Simons Array CMB polarization experiment
 
     Awards:
-      - title: Best Oral Presentation Award
-        awarder: 21st Siam Physics Congress
+      - name: Best Oral Presentation Award
+        location: 21st Siam Physics Congress
         date: 2026
         summary: 'For "Siam-DP: Probing the Dark Sector with a High-Sensitivity 230 GHz SIS Receiver"'
 
-      - title: Royal Thai Government Scholarship
-        awarder: Royal Thai Government
+      - name: Royal Thai Government Scholarship
+        location: Royal Thai Government
         date: 2010
         summary: Full-ride graduate scholarship for doctoral study abroad (2010–2017)
 
-      - title: Sritrangthong Scholarship
-        awarder: Mahidol University
+      - name: Sritrangthong Scholarship
+        location: Mahidol University
         date: 2005
         summary: Merit-based undergraduate scholarship (2005–2009)
 
     Skills:
-      - name: CMB Instrumentation
-        keywords:
-          - POLARBEAR
-          - Simons Array
-          - TES detectors
-          - receiver development
-          - cryogenics
-          - anti-reflection coatings
+      - label: CMB Instrumentation
+        details: POLARBEAR, Simons Array, TES detectors, receiver development, cryogenics, anti-reflection coatings
 
-      - name: Data Analysis
-        keywords:
-          - CMB polarization analysis
-          - B-mode detection
-          - gravitational lensing
-          - power spectrum estimation
+      - label: Data Analysis
+        details: CMB polarization analysis, B-mode detection, gravitational lensing, power spectrum estimation
 
-      - name: Programming & Tools
-        keywords:
-          - Python
-          - C
-          - MATLAB
-          - Mathematica
-          - LaTeX
-          - Solidworks
-          - HFSS
+      - label: Programming & Tools
+        details: Python, C, MATLAB, Mathematica, LaTeX, Solidworks, HFSS
 
-      - name: Operating Systems
-        keywords:
-          - macOS
-          - Linux (RedHat, Ubuntu, Linux Mint)
+      - label: Operating Systems
+        details: macOS, Linux (RedHat, Ubuntu, Linux Mint)
 
     Languages:
       - name: Thai
