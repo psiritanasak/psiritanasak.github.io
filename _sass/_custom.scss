@@ -138,3 +138,33 @@ h3,
 footer.fixed-bottom {
   border-top: 1px solid var(--global-divider-color);
 }
+
+// --- v1.2 migration: CV list styling ---
+// al_folio_cv still emits Bootstrap list-group markup, but Bootstrap compat is
+// off (enabling it hides the navbar menu). Restore the pre-v1 CV look here.
+.card .list-group {
+  list-style: none;
+  padding-left: 0;
+  margin-bottom: 0;
+}
+
+.card .list-group-flush > .list-group-item {
+  padding: 0.75rem 0;
+  background: transparent;
+  border: 0;
+  border-bottom: 1px solid var(--global-divider-color);
+
+  &:last-child {
+    border-bottom: 0;
+  }
+}
+
+table.table-cv,
+table.table-cv tr,
+table.table-cv td {
+  border: 0;
+}
+
+table.table-cv td {
+  padding: 0;
+}
